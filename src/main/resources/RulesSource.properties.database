@@ -1,0 +1,7 @@
+# db properties
+database.source=AbsharDB
+database.source.driverClassName=com.mysql.jdbc.Driver
+
+#cab
+#cab.live.url=http://active-cab-server:8080/
+#cab.pending.url=http://pending-cab-server:8080/
